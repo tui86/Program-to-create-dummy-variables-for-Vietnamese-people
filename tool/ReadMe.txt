@@ -2,3 +2,4 @@
 - Bạn ko cần quan tâm đến mớ dữ liệu trong file dulieu.docx khi bạn mới tải về
 - Tôi chỉ mới thử nghiệm trên bảng 3 chiều 2x2x2 nên có thể sẽ sai sót
 - Bạn cần tải thư viện docx để chương trình có thể hoạt động
+- Vui lòng kéo file ra ngoài màn hình Desktop để sử dụng 
