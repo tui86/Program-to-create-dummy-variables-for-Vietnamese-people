@@ -1,2 +1,2 @@
-# -program-to-create-dummy-variables-for-Vietnamese-people-
+# Program to create dummy variables for Vietnamese people
 I will make an English version later
