@@ -54,7 +54,8 @@ def taobiengia(dsb, dsbienphuthuoc, k):
             doc.add_paragraph(b)  # Ghi vào file Word
             row=[]
         index=[]
-    doc.save("dulieu.docx")
+    duong_dan=r"C:\Users\LAPTOP\Desktop\tool\dulieu.docx"
+    doc.save(duong_dan)
     print("Dữ liệu đã được lưu vào 'dulieu.docx' thành công!")
 
 sochieu=int(input("nhập số chiều: "))
